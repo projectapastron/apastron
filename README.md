@@ -1,6 +1,6 @@
 # Apastron: Autonomous Crypto Insights & Analysis
 
-![te]([banner](https://raw.githubusercontent.com/projectapastron/apastron/refs/heads/main/images/header.png))
+![te](https://raw.githubusercontent.com/projectapastron/apastron/refs/heads/main/images/header.png)
 
 ## Overview
 

@@ -61,7 +61,7 @@ Apastron is a groundbreaking AI platform that transforms the way we analyze and 
 - CUDA-capable GPU (recommended)
 
 ## Contributing
-We welcome contributions! Please refer to our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions!
 
 ### Development Process
 1. Fork the repository
@@ -82,15 +82,9 @@ Apastron includes performance metrics to evaluate the effectiveness of its model
 - Regular vulnerability scanning
 - Secure data handling practices
 
-## License
-MIT License - see [LICENSE](LICENSE) for more details
-
 ## Acknowledgments
 - Research partners
 - Contributing developers
-
-## Contact
-team@apastron.art
 
 ---
 
